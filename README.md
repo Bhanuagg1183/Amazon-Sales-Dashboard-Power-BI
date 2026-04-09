@@ -13,8 +13,8 @@ The **Amazon Sales Dashboard** is a Power BI project designed to analyze and vis
 
 
 ## Technology Stack
-- **Power BI**: For data visualization and reporting.
-- **Microsoft Excel**: For data manipulation and initial processing.
+- **Power BI:** For data visualization and reporting.
+- **Microsoft Excel:** For data manipulation and initial processing.
 
 
 ## Getting Started
