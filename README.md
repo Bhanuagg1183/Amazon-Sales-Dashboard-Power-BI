@@ -1,4 +1,4 @@
-# Amazon Sales Dashboard -  Power BI
+# Amazon Sales Dashboard - Power BI
 
 
 ## Overview
@@ -21,4 +21,4 @@ The **Amazon Sales Dashboard** is equipped with the following features:
 ## Getting Started
 ### Pre-requisites:
 - Power BI Desktop installed on your machine.
-- Access to the Amazon sales data (CSV- Comma Separated Values or Excel format).
+- Access to the Amazon sales data (CSV - Comma Separated Values or Excel format).
