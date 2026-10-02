@@ -1,9 +1,6 @@
 # Amazon Sales Dashboard - Power BI
-
-
-## Overview
+<!-- ## Overview -->
 The **Amazon Sales Dashboard** is a Power BI project designed to analyze and visualize Amazon sales data. This dashboard provides a comprehensive visual representation of sales metrics, enabling users to derive valuable insights and make informed business decisions.
-
 
 ## Features
 The **Amazon Sales Dashboard** is equipped with the following features:
@@ -12,11 +9,9 @@ The **Amazon Sales Dashboard** is equipped with the following features:
 - **Customizable Reports:** Tailor the dashboard to meet specific business needs and requirements.
 - **Data Insights:** Identify opportunities for growth and areas needing improvement.
 
-
 ## Tech Stack
 - **Power BI:** For data visualization and reporting.
 - **Microsoft Excel:** For data manipulation and initial processing.
-
 
 ## Getting Started
 ### Pre-requisites:
